@@ -1,4 +1,5 @@
-# Implementation of Singly Linked list 
+
+# Implementation of Doubly Linked list 
 # Class Node: It creates node which is used by Class DoublyLinkedList
 #
 # node = Node() is not a member of doublylinkedlist class just because we have to create multiple Node instance per one
